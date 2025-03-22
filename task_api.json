@@ -1,1 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Flutter Project",
+    "date": "2025-03-22",
+    "priority": "High",
+    "status": 0
+  },
+  {
+    "id": 2,
+    "title": "Fix API Issues",
+    "date": "2025-03-23",
+    "priority": "Medium",
+    "status": 0
+  },
+  {
+    "id": 3,
+    "title": "Update Task UI",
+    "date": "2025-03-24",
+    "priority": "Low",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "title": "Write Documentation",
+    "date": "2025-03-25",
+    "priority": "High",
+    "status": 0
+  }
+]
 
