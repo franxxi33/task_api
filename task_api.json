@@ -1,18 +1,18 @@
 [
   {
     "id": "1",
-    "title": "Plan Weekend Getaway",
-    "description": "Organize a weekend trip and book accommodations.",
+    "title": "Go to the beach",
+    "description": "Have a quality time with the fam at the beach.",
     "isCompleted": false,
-    "category": "General",
+    "category": "Lieasure",
     "priority": 1,
     "dueDate": "2025-03-25T00:00:00.000Z",
     "color": 4280391411
   },
   {
     "id": "2",
-    "title": "Complete Project Report",
-    "description": "Finalize and submit the report for the quarterly project.",
+    "title": "Complete ITRACK-A3 project",
+    "description": "Complete and submit midterm project.",
     "isCompleted": true,
     "category": "Work",
     "priority": 2,
@@ -21,8 +21,8 @@
   },
   {
     "id": "3",
-    "title": "Clean the Living Room",
-    "description": "Dust, vacuum, and organize the living room space.",
+    "title": "Clean the bedroom",
+    "description": "Organize desktop setup in bedroom.",
     "isCompleted": false,
     "category": "Home",
     "priority": 3,
@@ -31,18 +31,18 @@
   },
   {
     "id": "4",
-    "title": "Review Lecture Notes",
-    "description": "Go over the notes from the recent lecture on data structures.",
+    "title": "Install new graphics card",
+    "description": "Replace old graphics card with new purchased card.",
     "isCompleted": false,
-    "category": "Study",
+    "category": "Gaming",
     "priority": 4,
     "dueDate": "2025-03-28T00:00:00.000Z",
     "color": 4288423856
   },
   {
     "id": "5",
-    "title": "Buy New Clothes",
-    "description": "Shop for casual and formal outfits for the upcoming event.",
+    "title": "Buy new monitor",
+    "description": "Shop for a 144hz monitor.",
     "isCompleted": true,
     "category": "Shopping",
     "priority": 5,
@@ -51,8 +51,8 @@
   },
   {
     "id": "6",
-    "title": "Restock Kitchen Supplies",
-    "description": "Purchase groceries and essential kitchen items.",
+    "title": "Restock foods and ingredients",
+    "description": "Purchase groceries and and food stock for this months supply.",
     "isCompleted": false,
     "category": "Groceries",
     "priority": 1,
@@ -61,10 +61,10 @@
   },
   {
     "id": "7",
-    "title": "Schedule Doctor's Appointment",
-    "description": "Book a routine health check-up appointment.",
+    "title": "5v5 srim with the squad",
+    "description": "Invite the squade to practice for the upcoming tournament.",
     "isCompleted": true,
-    "category": "Health",
+    "category": "Gaming",
     "priority": 2,
     "dueDate": "2025-03-31T00:00:00.000Z",
     "color": 4288423856
